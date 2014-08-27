@@ -17,7 +17,9 @@ public class AEstrela{
 		ArrayList<No> solucao = new ArrayList<>();
 		//1.Verifica se o nó é solução
 		if(verificaSolucao(estadoAtual) == true){
-			while()
+			while(true){
+				
+			}
 		}
 	
 		
