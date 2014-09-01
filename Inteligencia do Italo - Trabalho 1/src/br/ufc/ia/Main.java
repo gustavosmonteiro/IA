@@ -15,10 +15,10 @@ public class Main {
 		String entrada = s.nextLine();
 		String[] estadoAtual = entrada.split("");
 		AEstrela estrela = new AEstrela(estadoAtual);
-		ArrayList<No> solucao = estrela.algoritmoEstrela();
-		for (No passo : solucao) {
-			System.out.println(passo.value);
-		}
+		//ArrayList<No> solucao = estrela.algoritmoEstrela();
+//		for (No passo : solucao) {
+//			System.out.println(passo.estado);
+//		}
 
 	}
 
