@@ -1,6 +1,5 @@
 package br.ufc.ia;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
